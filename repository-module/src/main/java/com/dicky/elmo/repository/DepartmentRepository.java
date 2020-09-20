@@ -9,3 +9,4 @@ import com.dicky.elmo.model.Department;
 public interface DepartmentRepository extends JpaRepository<Department, String>{
 
 }
+
